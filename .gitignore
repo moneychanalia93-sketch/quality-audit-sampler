@@ -1,0 +1,6 @@
+*.db
+__pycache__/
+*.pyc
+*.csv
+simulation_output.txt
+_private/
